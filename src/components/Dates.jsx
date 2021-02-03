@@ -14,7 +14,7 @@ const Dates = () => {
                 <div className="dates__info">
                     <h2 className="dates__info-title">Diego Fernando Zapata López</h2>
                     <h3 className="dates__info-subtitle">Desarrollador Front-end y diseñador</h3>
-                    <p className="dates__info-paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa praesentium vel eaque quasi, ab in eius a maxime reprehenderit adipisci cum saepe laudantium amet non quae veritatis iusto minus perferendis.</p>
+                    <p className="dates__info-paragraph">Soy una persona diligente, con la capacidad de trabajar en equipo y seguir ordenes para obtener un mejor resultado, puntual, dispuesto a proponer ideas nuevas, a aprender nuevos conocimientos en mi entorno laboral y a aprovechar las oportunidades dadas.</p>
                     <div className="dates__data">
                         <div className="dates__item">
                             <p className="dates__item-text dates__item-text--email"><strong>E-mail:</strong> diegozalo57@gmail.com</p>
